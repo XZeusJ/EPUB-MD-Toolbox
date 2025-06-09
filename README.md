@@ -1,6 +1,6 @@
 # EPUB Tools Suite
 
-一套完整的EPUB电子书下载、转换和整理工具，支持从GitHub仓库批量下载EPUB文件，转换为Markdown格式，并按单词数限制进行智能合并。
+一套完整的EPUB电子书下载、转换和整理工具，支持从GitHub仓库（[经济学人、纽约客等英语外刊杂志下载](https://github.com/hehonghui/awesome-english-ebooks) ）批量下载EPUB文件，转换为Markdown格式，并按单词数限制进行智能合并后上传至[NotebookLM](https://notebooklm.google/)学习。。
 
 ## 🌟 功能特性
 
